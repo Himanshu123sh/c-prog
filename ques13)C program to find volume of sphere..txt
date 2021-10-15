@@ -1,0 +1,11 @@
+ques13)C program to find volume of sphere.
+ans13)
+#include<stdio.h>
+int main(){
+   float volume;
+   int radius;
+   radius=20;
+   volume=((4.0f/3.0f) * (3.1415) * radius* radius* radius);
+   printf("the volume of a sphere is %f",volume);
+   return 0;
+}

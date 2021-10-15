@@ -1,0 +1,7 @@
+ques14)Write a C program to perform input/output of all basic data types.
+ans14)#include <stdio.h>    
+int main()
+{ 
+    printf("C Programming");
+    return 0;
+}

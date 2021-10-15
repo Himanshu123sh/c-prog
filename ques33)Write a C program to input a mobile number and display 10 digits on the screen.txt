@@ -1,0 +1,8 @@
+ques33)Write a C program to input a mobile number and display 10 digits on the screen
+ans33)
+#include <stdio.h>
+int main(void)
+{
+    printf("My mobile numberis 7\a4\a5\a1\a0\a3\a6\a3\a07\a2\a");
+    return (0);
+}

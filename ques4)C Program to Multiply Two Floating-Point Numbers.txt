@@ -1,0 +1,13 @@
+ques4)C Program to Multiply Two Floating-Point Numbers.
+ans4)
+#include <stdio.h>
+int main() 
+{
+    double a,b,sum;
+    printf("Enter two numbers: ");
+    scanf("%lf %lf",&a,&b);  
+    sum= a * b;
+    printf("Product = %.2lf",sum);
+    
+    return 0;
+}

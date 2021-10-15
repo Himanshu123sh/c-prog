@@ -1,0 +1,14 @@
+ques3)C Program to Add Two Integers.
+ans3)
+#include <stdio.h>
+int main()
+{    
+
+    int x,y, sum;
+    
+    printf("Enter two integers: ");
+    scanf("%d %d", &x,&y);
+    sum = number1 + number2;      
+    printf("%d + %d = %d",x,y,sum);
+    return 0;
+}

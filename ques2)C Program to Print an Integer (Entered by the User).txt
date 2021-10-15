@@ -1,0 +1,20 @@
+ques)
+C Program to Print an Integer (Entered by the User)
+#include <stdio.h>
+
+ans)
+#include <studio.h>
+int main() 
+{   
+    int number;
+   
+    printf("Enter an integer: ");  
+    
+    
+    scanf("%d", &number);
+
+    
+    printf("You entered: %d", number);
+    
+    return 0;
+}
